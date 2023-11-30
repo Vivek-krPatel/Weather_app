@@ -1,0 +1,74 @@
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    height: 100vh; 
+    margin: 0; 
+    padding: 0; 
+  }
+  
+  .search {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+  }
+  
+  #submit {
+    padding: 5px 10px;
+    background-color: #555;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
+ 
+  .weather {
+    background-color: #444;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .location {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .date {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .temp {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .weather_ele {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  
+  .weather_app_logo {
+    background-color: #555;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+  }
